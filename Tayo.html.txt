@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Rental Joki</title>
+</head>
+<body>
+    Ketua : ECHOCLAY
+    <br>Anggota 1 : Salazar
+    <br>Anggota 2 : .....
+    <br>Anggota 3 : .....
+    <br>Anggota 4 : .....
+</body>
+</html>
